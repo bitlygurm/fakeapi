@@ -1,0 +1,29 @@
+{
+  "roles": [
+    {
+      "id": 1,
+      "badgeid": "17463",
+      "role": "Manager"
+  },
+  {
+      "id": 2,
+      "badgeid": "15342",
+      "role": "Senior Consultant"
+  },
+  {
+     "id": 3,
+      "badgeid": "18460",
+      "role": "Consultant"
+  },
+  {
+       "id": 4,
+      "badgeid": "17620",
+      "role": "BTA"
+  },
+  {
+    "id": 5,
+     "badgeid": "12345",
+     "role": "Senior Manager"
+ }
+  ]
+}
